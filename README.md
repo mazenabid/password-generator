@@ -1,9 +1,15 @@
 # Password Generator
 <div align="center">
-<img src="https://github.com/user-attachments/assets/5f5a3d9a-5cc7-4022-84c7-a0f98db32ca1" width="800"/>
-</div>
-<div align="center">
-A simple, interactive password generator with dark mode support
+<a href="https://password-generator-mazen.netlify.app/" target="_blank">
+  <img 
+    src="https://github.com/user-attachments/assets/5f5a3d9a-5cc7-4022-84c7-a0f98db32ca1" 
+    width="800"
+  />
+</a>
+<br/>
+<br/>
+A simple, interactive password generator with dark mode support  
+<a href="https://password-generator-mazen.netlify.app/" target="_blank"><strong><u>View Project</u></strong></a>
 </div>
 
 ## Features
